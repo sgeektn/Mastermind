@@ -1,0 +1,25 @@
+Le jeux a commance le  12/03/2015 a  18:47
+[10] : Le jeux a commance le  12/03/2015 a  20:45
+[10] : A A A A    mal place: 0 reussi: 0  
+
+[ 9] : A A A A    mal place: 0 reussi: 0  
+
+[ 8] : A A A A    mal place: 0 reussi: 0  
+
+[ 7] : A A A A    mal place: 0 reussi: 0  
+
+[ 6] : A A A A    mal place: 0 reussi: 0  
+
+[ 5] : A A A A    mal place: 0 reussi: 0  
+
+[ 4] : A A A A    mal place: 0 reussi: 0  
+
+[ 3] : A A A A    mal place: 0 reussi: 0  
+
+[ 2] : A A A A    mal place: 0 reussi: 0  
+
+[ 1] : A A A A    mal place: 0 reussi: 0  
+
+vous avez perdu la combinaison est : 
+       V R V M 
+Le jeux est termine le  12/03/2015 a  20:45

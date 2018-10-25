@@ -1,0 +1,201 @@
+Le jeux a commance le  12/03/2015 a  20:35
+[10] : A A A A    mal place: 0 reussi: 0  
+
+[ 9] : A A A A    mal place: 0 reussi: 0  
+
+[ 8] : A A A A    mal place: 0 reussi: 0  
+
+[ 7] : A A A A    mal place: 0 reussi: 0  
+
+[ 6] : A A A A    mal place: 0 reussi: 0  
+
+[ 5] : A A A A    mal place: 0 reussi: 0  
+
+[ 4] : A A A A    mal place: 0 reussi: 0  
+
+[ 3] : A A A A    mal place: 0 reussi: 0  
+
+[ 2] : A A A A    mal place: 0 reussi: 0  
+
+[ 1] : A A A A    mal place: 0 reussi: 0  
+
+vous avez perdu la combinaison est : 
+       R V M B 
+Le jeux est termine le  12/03/2015 a  20:35
+Le jeux a commance le  12/03/2015 a  20:37
+[10] : A A A A    mal place: 0 reussi: 1  
+
+[ 9] : A A A A    mal place: 0 reussi: 1  
+
+[ 8] : A A A A    mal place: 0 reussi: 1  
+
+[ 7] : A A A A    mal place: 0 reussi: 1  
+
+[ 6] : A A A A    mal place: 0 reussi: 1  
+
+[ 5] : A A A A    mal place: 0 reussi: 1  
+
+[ 4] : A A A A    mal place: 0 reussi: 1  
+
+[ 3] : A A A A    mal place: 0 reussi: 1  
+
+[ 2] : A A A A    mal place: 0 reussi: 1  
+
+[ 1] : A A A A    mal place: 0 reussi: 1  
+
+vous avez perdu la combinaison est : 
+       B B R A 
+Le jeux est termine le  12/03/2015 a  20:37
+Le jeux a commance le  12/03/2015 a  20:38
+[10] : A A A A    mal place: 0 reussi: 2  
+
+[ 9] : A A A A    mal place: 0 reussi: 2  
+
+[ 8] : A A A A    mal place: 0 reussi: 2  
+
+[ 7] : A A A A    mal place: 0 reussi: 2  
+
+[ 6] : A A A A    mal place: 0 reussi: 2  
+
+[ 5] : A A A A    mal place: 0 reussi: 2  
+
+[ 4] : A A A A    mal place: 0 reussi: 2  
+
+[ 3] : A A A A    mal place: 0 reussi: 2  
+
+[ 2] : A A A A    mal place: 0 reussi: 2  
+
+[ 1] : A A A A    mal place: 0 reussi: 2  
+
+vous avez perdu la combinaison est : 
+       A M C A 
+Le jeux est termine le  12/03/2015 a  20:39
+Le jeux a commance le  12/03/2015 a  20:39
+[10] : A A A A    mal place: 0 reussi: 0  
+
+[ 9] : A A A A    mal place: 0 reussi: 0  
+
+[ 8] : A A A A    mal place: 0 reussi: 0  
+
+[ 7] : A A A A    mal place: 0 reussi: 0  
+
+[ 6] : A A A A    mal place: 0 reussi: 0  
+
+[ 5] : A A A A    mal place: 0 reussi: 0  
+
+[ 4] : A A A A    mal place: 0 reussi: 0  
+
+[ 3] : A A A A    mal place: 0 reussi: 0  
+
+[ 2] : A A A A    mal place: 0 reussi: 0  
+
+[ 1] : A A A A    mal place: 0 reussi: 0  
+
+vous avez perdu la combinaison est : 
+       C C B M 
+Le jeux est termine le  12/03/2015 a  20:40
+Le jeux a commance le  12/03/2015 a  20:41
+[10] : A A A A    mal place: 0 reussi: 0  
+
+[ 9] : A A A A    mal place: 0 reussi: 0  
+
+[ 8] : A A A A    mal place: 0 reussi: 0  
+
+[ 7] : A A A A    mal place: 0 reussi: 0  
+
+[ 6] : A A A A    mal place: 0 reussi: 0  
+
+[ 5] : A A A A    mal place: 0 reussi: 0  
+
+[ 4] : A A A A    mal place: 0 reussi: 0  
+
+[ 3] : A A A A    mal place: 0 reussi: 0  
+
+[ 2] : A A A A    mal place: 0 reussi: 0  
+
+[ 1] : A A A A    mal place: 0 reussi: 0  
+
+vous avez perdu la combinaison est : 
+       V R C V 
+Le jeux est termine le  12/03/2015 a  20:41
+Le jeux a commance le  12/03/2015 a  20:44
+[10] : A A A A    mal place: 0 reussi: 1  
+
+[ 9] : A A A A    mal place: 0 reussi: 1  
+
+[ 8] : A A A A    mal place: 0 reussi: 1  
+
+[ 7] : A A A A    mal place: 0 reussi: 1  
+
+[ 6] : A A A A    mal place: 0 reussi: 1  
+
+[ 5] : A A A A    mal place: 0 reussi: 1  
+
+[ 4] : A A A A    mal place: 0 reussi: 1  
+
+[ 3] : A A A A    mal place: 0 reussi: 1  
+
+[ 2] : A A A A    mal place: 0 reussi: 1  
+
+[ 1] : A A A A    mal place: 0 reussi: 1  
+
+vous avez perdu la combinaison est : 
+       A M B B 
+Le jeux est termine le  12/03/2015 a  20:44
+Le jeux a commance le  12/03/2015 a  21:56
+[10] : A A A A    mal place: 0 reussi: 1  
+
+[ 9] : A A A A    mal place: 0 reussi: 1  
+
+[ 8] : A A A A    mal place: 0 reussi: 1  
+
+[ 7] : A A A A    mal place: 0 reussi: 1  
+
+[ 6] : A A A A    mal place: 0 reussi: 1  
+
+[ 5] : A A A A    mal place: 0 reussi: 1  
+
+[ 4] : A A A A    mal place: 0 reussi: 1  
+
+[ 3] : A A A A    mal place: 0 reussi: 1  
+
+[ 2] : A A A A    mal place: 0 reussi: 1  
+
+[ 1] : A A A A    mal place: 0 reussi: 1  
+
+vous avez perdu la combinaison est : 
+       C B A B 
+Le jeux est termine le  12/03/2015 a  21:56
+Le jeux a commance le  13/03/2015 a  9:43:
+[10] : B B B B    mal place: 0 reussi: 0  
+
+[ 9] : V V V V    mal place: 0 reussi: 1  
+
+[ 8] : C C C V    mal place: 1 reussi: 1  
+
+[ 7] : C V C C    mal place: 1 reussi: 1  
+
+[ 6] : Le jeux a commance le  15/03/2015 a  13:13
+[10] : B B B B    mal place: 0 reussi: 1  
+
+[ 9] : B V V V    mal place: 1 reussi: 1  
+
+[ 8] : B V C C    mal place: 2 reussi: 0  
+
+[ 7] : c C B V    mal place: 2 reussi: 0  
+
+[ 6] : c c V B    mal place: 1 reussi: 1  
+
+[ 5] : A B V B    mal place: 0 reussi: 3  
+
+[ 4] : A R V B    mal place: 1 reussi: 2  
+
+[ 3] : A B V M    mal place: 0 reussi: 3  
+
+[ 2] : A B V C    mal place: 0 reussi: 3  
+
+[ 1] : A B V A    mal place: 0 reussi: 4  
+
+
+Le jeux est termine le  15/03/2015 a  13:16
+vous avez gagner
